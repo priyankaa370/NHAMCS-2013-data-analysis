@@ -1,12 +1,11 @@
 # NHAMCS-2013-data-analysis
 This project aims to explore and analyze real-world medical care data in order to discover and
 understand the factors that impact the duration of wait time patients experience in order to see a
-healthcare provider in the emergency room. Specifically, this study aims to discover if the wait
-time increases during the holiday periods or based the racial group of the patient, and to understand
-five of the most important numeric and categorical variables in the data that have the best ability
-to predict how long a patient will have to wait to see a healthcare provider in the emergency room.
-This report describes the statistical analysis performed for the objectives of this study and
-summarizes the conclusion met based on them.
+healthcare provider in the emergency room. 
+
+## Understanding the need:
+According to the source, the average wait time in an emergency room to see a doctor is over 2 hours, while for a primary care doctor, it is approximately 18 minutes. To reduce these wait times and provide care faster, it is essential first to understand the underlying causes. The objective of this project is to determine whether factors such as the holiday season and racial demographics influence wait times and to identify the elements that most significantly impact these wait times.
+
 
 ## T-test overview: 
 The t-test is a statistical method used to compare the means of two groups and
